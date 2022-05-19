@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dd60bc4-0281-4e6f-af3a-25579699e0eb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29NGlznD9jOrBoPKnnn5NXMBcE3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Admin">
+    <configuration name="Admin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.serverchannel.Admin" />
+      <module name="serverChannel" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\Glebasher\IdeaProjects\openjfx-18_windows-x64_bin-sdk\javafx-sdk-18\lib --add-modules javafx.fxml,javafx.controls,javafx.graphics,javafx.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.serverchannel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.serverchannel.Client" />
+      <module name="serverChannel" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\Glebasher\IdeaProjects\openjfx-18_windows-x64_bin-sdk\javafx-sdk-18\lib --add-modules javafx.fxml,javafx.controls,javafx.graphics,javafx.web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.serverchannel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.serverchannel.MainServer" />
+      <module name="serverChannel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.serverchannel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Admin" />
+      <item itemvalue="Application.MainServer" />
+      <item itemvalue="Application.Client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Admin" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.MainServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dd60bc4-0281-4e6f-af3a-25579699e0eb" name="Changes" comment="" />
+      <created>1652946286502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652946286502</updated>
+      <workItem from="1652946287719" duration="10000" />
+      <workItem from="1652946304617" duration="499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
